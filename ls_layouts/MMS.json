@@ -1,0 +1,50 @@
+{
+    "Name": "MMS",
+    "Description": "This configuration file is intended to simulate the position of the MMS satellites.",
+    "LoudspeakerLayout": {
+        "Name": "MMS",
+        "Description": "MMS satellite positions. MMS3 is in front of the listener; MMS1 appears below; MMS2",
+        "Loudspeakers": [
+            {
+                "Azimuth": 0.0,
+                "Elevation": 0.0,
+                "Radius": 0,
+                "IsImaginary": true,
+                "Channel": 1,
+                "Gain": 1.0
+            },
+            {
+                "Azimuth": 0.0,
+                "Elevation": -90.0,
+                "Radius": 1.0,
+                "IsImaginary": false,
+                "Channel": 1,
+                "Gain": 1.0
+            },
+            {
+                "Azimuth": 90,
+                "Elevation": 0,
+                "Radius": 1.0,
+                "IsImaginary": false,
+                "Channel": 2,
+                "Gain": 1.0
+            },
+            {
+                "Azimuth": 0,
+                "Elevation": 0,
+                "Radius": 1.0,
+                "IsImaginary": false,
+                "Channel": 3,
+                "Gain": 1.0
+            },
+            {
+                "Azimuth": 270,
+                "Elevation": 0,
+                "Radius": 1.0,
+                "IsImaginary": false,
+                "Channel": 4,
+                "Gain": 1.0
+            }
+        ]
+    }
+}
