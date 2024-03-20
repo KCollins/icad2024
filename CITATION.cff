@@ -1,0 +1,18 @@
+abstract: Files for ICAD 2024.
+authors:
+- affiliation: Space Science Institute
+  family-names: Collins
+  given-names: Kristina
+  orcid: 0000-0002-3816-1948
+- affiliation: Auralab Technologies Inc.
+  family-names: Alexander
+  given-names: Robert
+cff-version: 1.2.0
+date-released: '2024-03-20'
+doi: 10.5281/zenodo.10841879
+license:
+- cc-by-4.0
+repository-code: https://github.com/KCollins/icad2024/tree/v.0.0.1
+title: Auralization of MMS Data
+type: software
+version: v.0.0.1
